@@ -90,4 +90,4 @@ startBot();
         startBot();
     } else logger('You are using the latest version!', '[ CHECK UPDATE ]'), startBot();
 }).catch(err => logger("Unable to check update.", "[ CHECK UPDATE ]"));*/
-// THIZ BOT WAS MADE BY ME(Priyansh Rajput)- DO NOT STEAL MY CODE 💖🔱🕉️💌
+// THIZ BOT WAS MADE BY ME(Faiz Ansari)- DO NOT STEAL MY CODE 💖🔱🕉️💌
